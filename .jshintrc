@@ -1,0 +1,9 @@
+{
+    "curly":true,
+    "eqeqeq": true,
+    "undef":true,
+    "asi":false,
+    "browser": true,
+    "globals": {"module":true},
+    "predef":["define","BMap"]
+}
