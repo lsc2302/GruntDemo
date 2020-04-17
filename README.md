@@ -13,3 +13,7 @@ commands:
 ```shell
 npx grunt myWatch
 ```
+
+<div>
+<img src="snap/snap.png" height="200" width="200">
+</div>
