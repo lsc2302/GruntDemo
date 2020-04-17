@@ -8,3 +8,8 @@
 - grunt-contrib-jshint
 - grunt-contrib-uglify
 - grunt-contrib-watch
+
+commands:
+```shell
+npx grunt myWatch
+```
